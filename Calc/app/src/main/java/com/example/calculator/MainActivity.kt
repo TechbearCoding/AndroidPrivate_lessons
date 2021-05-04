@@ -77,8 +77,6 @@ class MainActivity : AppCompatActivity() {
                 editResult.setText((numberOne*numberTwo).toString())
             }
         }
-
-
     }
 
     private fun setActionListener(btn: Button){
